@@ -237,6 +237,7 @@ main {
         #menu a:hover {
             border-bottom: 1px solid #3a3a3a;
         }
+    }
 
     @media screen and (min-width: 1200px) {
         /* Reasons section */
