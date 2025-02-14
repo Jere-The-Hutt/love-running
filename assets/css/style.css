@@ -25,6 +25,10 @@ h1, h2, h3 {
     color: #252525;
 }
 
+.hidden-heading {
+    display: none;
+}
+
 /* Header */
 header {
     background-color: #ffffff;
@@ -176,7 +180,8 @@ main {
     flex-basis: 200px;
     flex-grow: 1;
     /* Creates a grid of Meetup time divs over the background image. */
-    border: 2px solid white;
+    border: 2px solid white
+    ;
 }
 
 #times h3 {
